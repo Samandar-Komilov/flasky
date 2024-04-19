@@ -1,0 +1,10 @@
+### Topics to cover deeper
+
+- from flask import session
+- url_for()
+- flash
+- flask_bootstrap
+- flask_moment
+- flask_wtf
+- wtforms
+- validators
